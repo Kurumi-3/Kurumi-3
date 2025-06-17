@@ -94,7 +94,7 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
 - 🧠 Membuat Module
 - 🎬 Ngedit JJ & AMV
 - 🖼️ GFX[Jarang]
-- 👾 Belajar Coding DIkit
+- 👾 Belajar Coding Dikit
 
 -------------------
 
