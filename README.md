@@ -65,7 +65,7 @@ Genre Anime Yang Ku Sering Tonton:
 
 > Segitu Aja Deskripsi Nya Lanjut Baca Bawah Nya
 
----
+-------------------
 
 ## Spefikasi HP Yang Saya Gunakan
 
@@ -78,8 +78,7 @@ Genre Anime Yang Ku Sering Tonton:
 ## Spefikasi Lengkap Nya
 Link : https://www.gsmarena.com/itel_p65-13258.php
 
-
----
+-------------------
 
 ## ✨ Showcase Mini
 
@@ -88,7 +87,7 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
   
 </p>
 
----
+-------------------
 
 ## 🛠️ Kegitan Gabut
 - 🌙 Oprek HP
@@ -97,7 +96,7 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
 - 🖼️ GFX[Jarang]
 - 👾 Belajar Coding DIkit
 
----
+-------------------
 
 ## 🤍 Pesan Pribadi
 
@@ -108,15 +107,22 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
 Kalau kamu baca ini dan relate sama isinya—berarti kamu lagi gak beruntung 🤣🤣 
 Kamu boleh banget eksplor isi repo ini dan tinggalkan pesan kalau mau sharing.
 
----
+-------------------
 
-## 📮 Kontak & Sosial
+## 📮 Kontak & Sosial & Donate
 
 | Platform | Link |
 |---------|------|
 | Telegram | https://t.me/TesterP671L|
 
----
+## Donate Seikhlas nya aja 
+<p align="center">
+  <img src="https://i.imgur.com/zXn8uFm.jpg" alt="Donate" width="300"/>
+</p>
+
+<p align="center"><b>YANG MAU DONATE SILAHKAN SEIKHLAS NYA SAJA</b></p>
+
+-------------------
 
 ## 🌟 Penutup
 
@@ -127,5 +133,5 @@ Semoga Yang Hp Nya Matot Ketemu Solusi Nya 😂😂
   <img src="https://i.pinimg.com/736x/28/57/5b/28575b82184ecfa99026c385a11fefbc.jpg" width="250" />
 </p>
 
----
+-------------------
 
