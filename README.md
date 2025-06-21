@@ -93,8 +93,9 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
 - 🌙 Oprek HP
 - 🧠 Membuat Module
 - 🎬 Ngedit JJ & AMV
-- 🖼️ GFX[Jarang]
+- 🖼️ Ngedit GFX[Jarang]
 - 👾 Belajar Coding Dikit
+- 📁 Upload Dump Firmware Unisoc Only
 
 -------------------
 
