@@ -15,59 +15,12 @@
 
 ## 🌷 Deskripsi
 
-> ✨ *"Aku hanya seseorang Cowok Yang Gabut Membuat Tampilan Github Seperti Ini🗿🗿."*
+> ✨ *"Aku hanya seseorang Anomali Yang Gabut Membuat Tampilan Github Seperti Ini🗿🗿."*
 
 Halo, aku **Kurumi <3**!  
-Seorang AnimeLovers yang suka menonton anime tiap hari hanya karena gabut🗿🗿
-
----
-
-## 💖 My Favorit
--------------------
-| 🎮 Gaming |:
-1. Mobile Legends.
-2. Genshin Impact.
-3. Wuthering Wave.
--------------------
-|📱 Oprek HP |
-1. Pasang Custom ROM✅
-2. Pasang GSI ROM✅
-3. Pasang Module✅
-4. Test Porting ROM✅
-5. Create Module Magisk✅
--------------------
-|🎧 Musik |
-Saya Sering Mendengarkan Music:
-1. DJ Vinky YT🔥
-2. Anime Music🔥
-3. JKT 48🔥
--------------------
-|🎨 Editing | 
-Software Yang Saya Gunakan Untuk Mengedit Di PC/Android:
-1. Alight Motion[Android]📱
-2. After Effects[PC]💻
-3. Blender[PC]💻
-4. Capcut[Android]📱
--------------------
-|🎥 Nonton Anime |
-Genre Anime Yang Ku Sering Tonton:
-1. Action + Romance🔥
-2. Romance + School🗿
-3. Romance + Harem♥️
-4. Action + Fantasy👌
-5. Harem + Romance + Comedy😋
-6. Fantasy + Magic + Comedy🧙
-7. Magic + Comedy + Action🤣
-8. Comedy + Action + Romance😂😂
-9. Dll/etc.
--------------------
-
-
-> Segitu Aja Deskripsi Nya Lanjut Baca Bawah Nya
+Seorang Opreker Pemula
 
 -------------------
-
-## Spefikasi HP Yang Saya Gunakan
 
 | Phone    | Spefication                |
 |----------|----------------------------|
@@ -75,8 +28,6 @@ Genre Anime Yang Ku Sering Tonton:
 |          | Rom : 128GB                |  
 |          | Chipset : Unisoc T615      | 
 |          | Android : 14               | 
-## Spefikasi Lengkap Nya
-Link : https://www.gsmarena.com/itel_p65-13258.php
 
 -------------------
 
@@ -92,10 +43,8 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
 ## 🛠️ Kegitan Gabut
 - 🌙 Oprek HP
 - 🧠 Membuat Module
-- 🎬 Ngedit JJ & AMV
-- 🖼️ Ngedit GFX[Jarang]
-- 👾 Belajar Coding Dikit
-- 📁 Upload Dump Firmware Unisoc Only
+- 👾 Buat Apk
+- 📁 Membuat Port Rom
 
 -------------------
 
@@ -104,24 +53,8 @@ Link : https://www.gsmarena.com/itel_p65-13258.php
 > "Ngoprek bukan soal berhasil,
 > Tapi soal seberapa cepat kamu cari solusi sambil panik😂😂." 
 
-
 Kalau kamu baca ini dan relate sama isinya—berarti kamu lagi gak beruntung 🤣🤣 
 Kamu boleh banget eksplor isi repo ini dan tinggalkan pesan kalau mau sharing.
-
--------------------
-
-## 📮 Kontak & Sosial & Donate
-
-| Platform | Link |
-|---------|------|
-| Telegram | https://t.me/TesterP671L|
-
-## Donate Seikhlas nya aja 
-<p align="center">
-  <img src="https://i.imgur.com/zXn8uFm.jpg" alt="Donate" width="300"/>
-</p>
-
-<p align="center"><b>YANG MAU DONATE SILAHKAN SEIKHLAS NYA SAJA</b></p>
 
 -------------------
 
